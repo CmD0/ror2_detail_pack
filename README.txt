@@ -1,5 +1,5 @@
 # ror2_detail_pack
-Detailed item descriptions for RoR2 including survivors of the void content.
+Detailed item descriptions for Risk of Rain 2 including the "Survivors of The Void" content.
 
 ~~~~~HOW TO INSTALL~~~~~~
 Make sure Risk of Rain 2 is closed.
